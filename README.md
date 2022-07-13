@@ -1,6 +1,3 @@
-# PONG
-  PONG is a game which is wildly popular in 90's and helped launch the video game industry.
-
 ## GOAL
   Score 5 goals against your opponent to win the game.
 
