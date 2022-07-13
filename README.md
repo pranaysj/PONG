@@ -10,6 +10,4 @@
 
 ## SCREENSHOTS
 ![Start Scene](https://raw.githubusercontent.com/pranaysj/PONG/main/Screenshots/start_game_ss.jpg)
-![Win Scene] (https://raw.githubusercontent.com/pranaysj/PONG/main/Screenshots/end_game_ss.jpg)
-https://raw.githubusercontent.com/pranaysj/PONG/main/Screenshots/start_game_ss.jpg
-![](images/end_game_ss.jpg)
+![Win Scene](https://raw.githubusercontent.com/pranaysj/PONG/main/Screenshots/end_game_ss.jpg)
